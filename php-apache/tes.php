@@ -1,6 +1,6 @@
 <?php
 
-$host = 'sql-container';
+$host = 'new-sql-container';
 $user = 'root';
 $password = 'asdasd123';
 $dbname = 'Redlock';
